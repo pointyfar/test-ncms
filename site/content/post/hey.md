@@ -6,4 +6,4 @@ image: /img/placeholder-100.png
 ---
 yo
 
-!\[placeholder](/img/placeholder-100.png)
+![placeholder](/img/placeholder-100.png)
